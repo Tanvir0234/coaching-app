@@ -33,7 +33,7 @@ const Contact = () => {
                             <input type="text" className="form-control" id="exampleInput" />
                         </div>
                        
-                        <button type="submit" className="btn btn-primary">Submit</button>
+                        <button type="submit" className="btn btn-primary mb-4">Submit</button>
                     </form>
                 </div>
             </div>

@@ -15,6 +15,7 @@ import About from './Components/aboutUs/About';
 
 import { createContext, useEffect, useState } from 'react';
 import Services from './servieces/Services';
+import NotFound from './notFound/NotFound';
 export const userContext = createContext();
 function App() {
   const [services,setServices]=useState([]);
@@ -45,6 +46,9 @@ function App() {
         </Route>
         <Route exact path = "/about">
           <About></About>
+        </Route>
+        <Route path = "*">
+          <NotFound></NotFound>
         </Route>
       </Switch>
       <Footer></Footer>

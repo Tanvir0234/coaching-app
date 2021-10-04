@@ -1,11 +1,12 @@
 import React from 'react';
+import './About.css'
 import about from '../../images/about.jpg'
 
 const About = () => {
     return (
         <div>
             <div className="container">
-                <img className="w-75 h-75 " src={about} alt="" />
+                <img className="w-75 h-75 image " src={about} alt="" />
             </div>
             <div className="container mt-2">
                 <h2 className="text-center"> About the Centre for Coaching and associated Centres</h2>

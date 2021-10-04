@@ -9,7 +9,7 @@ const Home = () => {
     return (
         <div>
             <div className="row">
-            <div className="col-md-6 my-auto text-center">
+            <div className="col-md-6  my-auto text-center">
                 <p>Better Education</p>
                 <h1>For a Better World</h1>
                 <p></p>
@@ -20,7 +20,7 @@ const Home = () => {
             </div>
         </div>
         <div className="container mt-2">
-            <h1 className="text-center">OUR <span className="title">SERVICES</span></h1>
+            <h1 className="text-center mt-3 mb-3">OUR <span className="title">SERVICES</span></h1>
             <div className="row">
                   {
                       services.map(service =><Service
