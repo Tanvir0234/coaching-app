@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "JSC Special",
+        "price": 3000,
+        "duration": "2 Month",
+        "img": "https://media-eng.dhakatribune.com/uploads/2018/11/whatsapp-image-2018-11-01-at-10-13-17-1-1541047235925.jpg"
+    },
+    {
+        "id": 2,
+        "name": "SSC Special",
+        "price": 4000,
+        "duration": "4 Month",
+        "img": "https://image.freepik.com/free-photo/smiling-students-with-backpacks_1098-1220.jpg"
+    },
+    {
+        "id": 3,
+        "name": "HSC Special",
+        "price": 6000,
+        "duration": "4 Month",
+        "img": "https://media.istockphoto.com/photos/group-of-college-students-studying-together-picture-id1278978962?b:1&k:20&m:1278978962&s:170667a&w:0&h:bVA2tQGr1RTVvyl-LoVOGKusTAfsQXlLzRKkCoHw0WM:"
+    },
+    {
+        "id": 4,
+        "name": "Cadet Admission",
+        "price": 8000,
+        "duration": "6 Month",
+        "img": "https://media-eng.dhakatribune.com/uploads/2019/05/bcc-1-4-1557206322616.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Univarsity Admission",
+        "price": 4000,
+        "duration": "6 Month",
+        "img": "https://thumbs.dreamstime.com/b/cheerful-college-students-walking-out-campus-together-posing-outdoors-camera-having-break-classes-free-space-175174081.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Computer Course",
+        "price": 3000,
+        "duration": "3 Month",
+        "img": "https://c8.alamy.com/comp/2A7JJC8/young-male-college-student-using-computer-studying-e-learning-education-with-students-in-computer-class-2A7JJC8.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Class6-Class10",
+        "price": 8000,
+        "duration": "6 Month",
+        "img": "https://thumbs.dreamstime.com/b/group-diverse-young-students-standing-together-classroom-156212396.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Eleven-Tweleve",
+        "price": 10000,
+        "duration": "7 Month",
+        "img": "https://image.shutterstock.com/image-photo/students-listening-female-teacher-classroom-260nw-778983088.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Basic English",
+        "price": 3000,
+        "duration": "4 Month",
+        "img": "https://edusoftlearning.com/wp-content/uploads/2018/05/Edusoft-Provides-English-Language2-1080x540.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Math Course",
+        "price": 6000,
+        "duration": "4 Month",
+        "img": "https://lh3.googleusercontent.com/proxy/V_2GkqTfihyi-XFzbbTWHMu1F1dZpuWfbacVDvEzfl5m1I9ByB7ZL6iSMNS8j7OQkatequPrZQFyBwdKE955UJEr8MDRw9pBCcpWAk31a-mWnDKkLvr6YxtFnSkc"
+    },
+    {
+        "id": 11,
+        "name": "Bussiness Managment",
+        "price": 5000,
+        "duration": "3 Month",
+        "img": "https://www.theportugalnews.com/uploads/news/business_article.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Medical Admission",
+        "price": 15000,
+        "duration": "6 Month",
+        "img": "https://img.theweek.in/content/dam/week/news/biztech/2019/May/medical-students-medicine-college-medical--shut.jpg"
+    }
+]
